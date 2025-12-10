@@ -1,29 +1,31 @@
 using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.SignalR;
+using AspNetCore.Identity.MongoDbCore.Extensions;
+using AspNetCore.Identity.MongoDbCore.Infrastructure;
+using AspNetCore.Identity.MongoDbCore.Models;
 
-using SecureChat.Web.Data;
 using SecureChat.Web.Hubs;
 using SecureChat.Web.Infrastructure;
 using SecureChat.Web.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// --- DB (keeps your existing SQLite connection from appsettings.json) ---
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+// --- MongoDB Identity configuration ---
+var mongoSettings = builder.Configuration.GetSection("Mongo")
+    .Get<MongoDbSettings>() ?? throw new InvalidOperationException("Mongo settings missing");
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite(connectionString));
-builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-
-// --- Identity: register ONCE, using ApplicationUser ---
-builder.Services
-    .AddDefaultIdentity<ApplicationUser>(options =>
+var mongoIdentityConfig = new MongoDbIdentityConfiguration
+{
+    MongoDbSettings = mongoSettings,
+    IdentityOptionsAction = options =>
     {
         options.SignIn.RequireConfirmedAccount = false; // dev mode
-    })
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+    }
+};
+
+builder.Services.ConfigureMongoDbIdentity<ApplicationUser, ApplicationRole, Guid>(mongoIdentityConfig)
+    .AddDefaultTokenProviders()
+    .AddDefaultUI();
 
 // --- MVC/Pages/SignalR ---
 builder.Services.AddRazorPages();
@@ -35,7 +37,7 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-    app.UseMigrationsEndPoint();
+    app.UseDeveloperExceptionPage();
 }
 else
 {
