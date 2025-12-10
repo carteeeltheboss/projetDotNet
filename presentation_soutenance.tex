@@ -1,0 +1,146 @@
+\documentclass[10pt]{beamer}
+\usetheme{Madrid}
+\usecolortheme{beaver}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{hyperref}
+\title{Soutenance du projet \textit{SecureChat}}
+\subtitle{Réalisation d'un chat temps réel avec ASP.NET Core, EF Core, Identity et SignalR}
+\author{Étudiant Ingénieur}
+\date{\today}
+
+\begin{document}
+
+% Page de titre
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% Plan
+\begin{frame}{Plan (15 minutes)}
+  \begin{enumerate}
+    \item Contexte et objectifs
+    \item Architecture globale et pile technologique
+    \item Données et sécurité (EF Core + Identity)
+    \item Messagerie temps réel (SignalR + Hub)
+    \item Interfaces et API d'appoint
+    \item Démonstration guidée et flux utilisateur
+    \item Qualité, tests et pistes d'amélioration
+  \end{enumerate}
+\end{frame}
+
+% Contexte et objectifs
+\begin{frame}{Contexte et objectifs}
+  \begin{itemize}
+    \item Besoin: messagerie sécurisée pour utilisateurs authentifiés (DM + salons).
+    \item Contraintes: simplicité de déploiement (SQLite), authentification intégrée, réactivité en temps réel.
+    \item Cibles: preuve de concept robuste pour un cours d'architecture web moderne.
+    \item Livrables principaux: application ASP.NET Core, base SQLite embarquée, hub SignalR, page unique de chat et API de recherche d'utilisateurs.
+  \end{itemize}
+\end{frame}
+
+% Architecture globale
+\begin{frame}{Architecture globale}
+  \begin{block}{Couche serveur (Program.cs)}
+    \begin{itemize}
+      \item Enregistrement des services: EF Core (SQLite), Identity avec utilisateur personnalisé, Razor Pages, MVC, SignalR, \texttt{IUserIdProvider} custom.
+      \item Pipeline: HTTPS, fichiers statiques, authentification/autorisation, routage Razor/MVC, hub chat exposé en \texttt{/hubs/chat}, endpoint \texttt{/whoami} pour debug.
+    \end{itemize}
+  \end{block}
+  \begin{block}{Base de données}
+    \begin{itemize}
+      \item Connection string \texttt{DefaultConnection} pointant vers \texttt{app.db} (SQLite).
+      \item Contexte unique \texttt{ApplicationDbContext} héritant d'Identity pour gérer tables + champs personnalisés.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+% Modèle de données
+\begin{frame}{Données et sécurité (EF Core + Identity)}
+  \begin{itemize}
+    \item Modèle utilisateur \texttt{ApplicationUser} : \texttt{Email}, \texttt{PasswordHash} (Identity) + \texttt{DisplayName}, \texttt{AvatarUrl}.
+    \item Contexte \texttt{ApplicationDbContext} : configuration des longueurs, migrations Identity prêtes via EF Core.
+    \item Authentification: \texttt{[Authorize]} sur le hub SignalR et l'API de recherche \Rightarrow accès réservé aux comptes connectés.
+    \item Avantage EF Core: un seul DbContext pour Identity et nos extensions, requêtes LINQ, migrations automatiques.
+  \end{itemize}
+\end{frame}
+
+% SignalR
+\begin{frame}{Messagerie temps réel (SignalR)}
+  \begin{itemize}
+    \item Hub \texttt{ChatHub} (dossier \texttt{Hubs/}) protégé par \texttt{[Authorize]}.
+    \item Méthodes clés:
+      \begin{itemize}
+        \item \texttt{SendDirectByEmail}: résolution du destinataire par email + envoi ciblé \texttt{ReceiveDirect}.
+        \item \texttt{JoinRoom}: ajout au groupe, diffusion d'un message "System" de bienvenue.
+        \item \texttt{SendToRoom}: broadcast \texttt{ReceiveRoom} avec label émetteur et horodatage UTC.
+      \end{itemize}
+    \item \texttt{IUserIdProvider} personnalisé: mappe l'ID SignalR sur l'identité ASP.NET Core (NameIdentifier).
+  \end{itemize}
+\end{frame}
+
+% UI
+\begin{frame}{Interface utilisateur (Pages/Chat.cshtml)}
+  \begin{itemize}
+    \item Page Razor protégée par \texttt{[Authorize]}, trois blocs: messages directs, salons, journal temps réel.
+    \item Client JS SignalR: connexion à \texttt{/hubs/chat}, handlers \texttt{ReceiveDirect}, \texttt{ReceiveRoom}, \texttt{System}.
+    \item Autocomplete email: requêtes \texttt{/api/users/search?term=} avec debounce, remplit \texttt{datalist} pour choisir un destinataire.
+    \item UX: nettoyage des champs après envoi, labels utilisateurs préférant \texttt{DisplayName} puis \texttt{Email}.
+  \end{itemize}
+\end{frame}
+
+% API
+\begin{frame}{API complémentaire (Controllers/UsersController.cs)}
+  \begin{itemize}
+    \item Route: \texttt{GET /api/users/search?term=...} sous \texttt{[Authorize]}.
+    \item Filtre: préfixe insensible à la casse sur \texttt{Email} ou \texttt{DisplayName}, limité à 10 résultats.
+    \item Payload: \texttt{Id}, \texttt{Email}, \texttt{DisplayName}. Sert à l'autocomplétion côté client.
+  \end{itemize}
+\end{frame}
+
+% Démonstration
+\begin{frame}{Démonstration guidée (5 min)}
+  \begin{enumerate}
+    \item Connexion/inscription via Identity (pages dans \texttt{Areas/Identity}).
+    \item Accès \texttt{/Chat}: ouverture de la connexion SignalR.
+    \item DM: saisie email, autocomplétion, envoi \Rightarrow événement \texttt{ReceiveDirect} sur le compte cible.
+    \item Salon: rejoindre avec un identifiant, publication \Rightarrow \texttt{ReceiveRoom} pour tous les membres.
+    \item Debug: endpoint \texttt{/whoami} pour vérifier l'ID utilisateur si besoin.
+  \end{enumerate}
+\end{frame}
+
+% Qualité et tests
+\begin{frame}{Qualité, performances et sécurité}
+  \begin{itemize}
+    \item Sécurité: tout le temps derrière \texttt{[Authorize]}, pas de données hors Identity; validation côté hub.
+    \item Base légère: SQLite embarqué, idéal pour démo et tests rapides; peut être remplacé par SQL Server si nécessaire.
+    \item Observabilité: logs ASP.NET Core + messages système dans les salons pour tracer les connexions.
+    \item Robustesse SignalR: reconnexion automatique côté client, horodatage UTC pour cohérence.
+  \end{itemize}
+\end{frame}
+
+% Perspectives
+\begin{frame}{Pistes d'amélioration}
+  \begin{itemize}
+    \item Ajouter pièces jointes ou réactions dans les salons.
+    \item Historiser les messages via une table EF Core dédiée.
+    \item Gestion des statuts en ligne et présence (SignalR groups + cache distribué).
+    \item Tests end-to-end (Playwright) et tests de hubs avec \texttt{Microsoft.AspNetCore.SignalR.Client} en mémoire.
+  \end{itemize}
+\end{frame}
+
+% Conclusion
+\begin{frame}{Conclusion}
+  \begin{itemize}
+    \item Projet illustre l'intégration cohérente EF Core + Identity + SignalR dans ASP.NET Core.
+    \item Démo focalisée sur l'expérience utilisateur simple et sécurisée.
+    \item Architecture modulaire: un DbContext, un hub, une page principale, une API d'appoint.
+  \end{itemize}
+  \vfill
+  \begin{center}
+    Merci pour votre attention \& questions
+  \end{center}
+\end{frame}
+
+\end{document}
