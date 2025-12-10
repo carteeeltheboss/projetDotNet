@@ -1,0 +1,487 @@
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/appsettings.Development.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/appsettings.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SecureChat.Web.staticwebassets.runtime.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/app.db
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SecureChat.Web
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SecureChat.Web.deps.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SecureChat.Web.runtimeconfig.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SecureChat.Web.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SecureChat.Web.pdb
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Humanizer.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Common.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Features.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.CodeDom.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Net.ServerSentEvents.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Text.Json.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/System.Threading.Channels.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.csproj.AssemblyReference.cache
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.AssemblyInfoInputs.cache
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.AssemblyInfo.cs
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.csproj.CoreCompileInputs.cache
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.MvcApplicationPartsAssemblyInfo.cs
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.RazorAssemblyInfo.cache
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.RazorAssemblyInfo.cs
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets.build.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets.development.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets/msbuild.SecureChat.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets/msbuild.build.SecureChat.Web.props
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SecureChat.Web.props
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SecureChat.Web.props
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/staticwebassets.pack.json
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/scopedcss/bundle/SecureChat.Web.styles.css
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/scopedcss/projectbundle/SecureChat.Web.bundle.scp.css
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureCh.B79B240F.Up2Date
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/refint/SecureChat.Web.dll
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.pdb
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/SecureChat.Web.genruntimeconfig.cache
+/home/luna/Documents/projectDOTNET/SecureChat/SecureChat.Web/obj/Debug/net8.0/ref/SecureChat.Web.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\refint\SecureChat.Web.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.pdb
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\appsettings.Development.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\appsettings.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\app.db
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.staticwebassets.runtime.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.staticwebassets.endpoints.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.exe
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.deps.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.pdb
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Humanizer.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.CodeDom.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.IO.Pipelines.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Text.Json.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\System.Threading.Channels.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.MvcApplicationPartsAssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.RazorAssemblyInfo.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.RazorAssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\scopedcss\bundle\SecureChat.Web.styles.css
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\scopedcss\projectbundle\SecureChat.Web.bundle.scp.css
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\staticwebassets.build.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\staticwebassets.development.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\swae.build.ex.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureCh.B79B240F.Up2Date
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Desktop\projectDOTNET\SecureChat\SecureChat.Web\obj\Debug\net8.0\ref\SecureChat.Web.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.staticwebassets.endpoints.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\app.db
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.staticwebassets.runtime.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.exe
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.deps.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.runtimeconfig.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SecureChat.Web.pdb
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.csproj.AssemblyReference.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.AssemblyInfoInputs.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.AssemblyInfo.cs
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.csproj.CoreCompileInputs.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.RazorAssemblyInfo.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.RazorAssemblyInfo.cs
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\scopedcss\bundle\SecureChat.Web.styles.css
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\scopedcss\projectbundle\SecureChat.Web.bundle.scp.css
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureCh.B79B240F.Up2Date
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\refint\SecureChat.Web.dll
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.pdb
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\SecureChat.Web.genruntimeconfig.cache
+C:\Users\LunaticLuna\Desktop\SecureChat.Web\obj\Debug\net8.0\ref\SecureChat.Web.dll

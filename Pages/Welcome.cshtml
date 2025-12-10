@@ -1,0 +1,10 @@
+@page
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+@model WelcomeModel
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<h1>Welcome</h1>
+<p>You are logged in. 🎉</p>

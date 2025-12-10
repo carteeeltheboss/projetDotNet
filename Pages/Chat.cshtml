@@ -1,0 +1,122 @@
+@page
+@attribute [Microsoft.AspNetCore.Authorization.Authorize]
+@model ChatModel
+@{
+    ViewData["Title"] = "Live Chat";
+}
+
+<div class="container py-4">
+  <h2 class="mb-3">Live Chat</h2>
+
+  <div class="row g-3">
+    <div class="col-lg-6">
+      <div class="card shadow-sm">
+        <div class="card-header fw-bold">Direct Message</div>
+        <div class="card-body">
+          <div class="mb-2">
+            <label class="form-label">Recipient Email</label>
+            <input id="toEmail" class="form-control" placeholder="friend@example.com" list="user-suggest"/>
+            <datalist id="user-suggest"></datalist>
+          </div>
+          <div class="input-group">
+            <input id="dmText" class="form-control" placeholder="Type a message...">
+            <button id="sendDmBtn" class="btn btn-primary">Send</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6">
+      <div class="card shadow-sm">
+        <div class="card-header fw-bold">Room</div>
+        <div class="card-body">
+          <div class="input-group mb-2">
+            <input id="roomId" class="form-control" placeholder="room-1">
+            <button id="joinBtn" class="btn btn-outline-secondary">Join</button>
+          </div>
+          <div class="input-group">
+            <input id="roomText" class="form-control" placeholder="Message to room...">
+            <button id="sendRoomBtn" class="btn btn-success">Send</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mt-4">
+    <div class="card-header">Messages</div>
+    <div class="card-body" style="height: 320px; overflow:auto;">
+      <ul id="log" class="list-unstyled m-0"></ul>
+    </div>
+  </div>
+</div>
+
+@section Scripts {
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"
+          crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script>
+    const logEl = document.getElementById('log');
+    const li = (html) => { const el = document.createElement('li'); el.className='mb-1'; el.innerHTML = html; return el; }
+    const push = (html) => { logEl.appendChild(li(html)); logEl.parentElement.scrollTop = logEl.parentElement.scrollHeight; }
+
+    // Build hub connection
+    const connection = new signalR.HubConnectionBuilder()
+      .withUrl("/hubs/chat")
+      .withAutomaticReconnect()
+      .build();
+
+    connection.on("ReceiveDirect", (fromLabel, message, utc) => {
+      push(`<span class="badge text-bg-primary me-2">DM</span><strong>${fromLabel}</strong>: ${message} <small class="text-muted">at ${utc}</small>`);
+    });
+    connection.on("ReceiveRoom", (roomId, fromLabel, message, utc) => {
+      push(`<span class="badge text-bg-success me-2">${roomId}</span><strong>${fromLabel}</strong>: ${message} <small class="text-muted">at ${utc}</small>`);
+    });
+    connection.on("System", (text) => {
+      push(`<span class="badge text-bg-secondary me-2">System</span>${text}`);
+    });
+
+    connection.start().then(()=>push('<em class="text-success">Connected to ChatHub</em>'))
+      .catch(err=>push('<em class="text-danger">ERR '+err+'</em>'));
+
+    // Direct: send by email
+    document.getElementById('sendDmBtn').onclick = async ()=>{
+      const email = document.getElementById('toEmail').value.trim();
+      const dm = document.getElementById('dmText').value.trim();
+      if(email && dm){
+        await connection.invoke("SendDirectByEmail", email, dm);
+        document.getElementById('dmText').value = '';
+      }
+    };
+
+    // Room join/send
+    document.getElementById('joinBtn').onclick = async ()=>{
+      const roomId = document.getElementById('roomId').value.trim();
+      if(roomId) await connection.invoke("JoinRoom", roomId);
+    };
+    document.getElementById('sendRoomBtn').onclick = async ()=>{
+      const roomId = document.getElementById('roomId').value.trim();
+      const txt = document.getElementById('roomText').value.trim();
+      if(roomId && txt){
+        await connection.invoke("SendToRoom", roomId, txt);
+        document.getElementById('roomText').value = '';
+      }
+    };
+
+    // Autocomplete by /api/users/search
+    const toEmail = document.getElementById('toEmail');
+    const dataList = document.getElementById('user-suggest');
+    let searchTimer = null;
+    toEmail.addEventListener('input', ()=>{
+      clearTimeout(searchTimer);
+      const term = toEmail.value.trim();
+      if(!term) { dataList.innerHTML=''; return; }
+      searchTimer = setTimeout(async ()=>{
+        const r = await fetch(`/api/users/search?term=${encodeURIComponent(term)}`);
+        const arr = await r.json();
+        dataList.innerHTML = arr.map(u =>
+          `<option value="${u.email}">${u.displayName || u.email}</option>`).join('');
+      }, 200);
+    });
+  </script>
+}
